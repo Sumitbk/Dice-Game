@@ -7,7 +7,7 @@
 <html>
 <head>
 
-<script>
+<style>
 /* Made with love by Mutiullah Samim*/
 
 @import url('https://fonts.googleapis.com/css?family=Numans');
@@ -98,7 +98,7 @@ color: white;
 margin-left: 4px;
 }
 
-</script>
+</style>
 	<title>Login Page</title>
    <!--Made with love by Mutiullah Samim -->
    
